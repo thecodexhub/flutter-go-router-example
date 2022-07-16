@@ -8,6 +8,13 @@ class ColorRepository {
       'red': Colors.red,
       'indigo': Colors.indigo,
       'lime': Colors.lime,
+      'cyan': Colors.cyan,
+      'blue-grey': Colors.blueGrey,
+      'purple': Colors.purple,
+      'amber': Colors.amber,
+      'orange': Colors.orange,
+      'green': Colors.green,
+      'brown': Colors.brown,
     };
   }
 
